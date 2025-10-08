@@ -271,6 +271,8 @@ Il existe 4 possibilités de traitement pour les `ON UPDATE` & `ON DELETE` :
 
 Réaliser les requêtes suivantes, en individuel, et noter le nombre de résultat de vos requêtes pour chacune (gradez une trace de vos requêtes quand meme), en travaillant sur la base de données `EMPLOYEES` : 
 
+### Requetes simples partie 1 
+
 - Sélectionner tous les employés
 ```SQL
 SELECT * from employees; (299290)
